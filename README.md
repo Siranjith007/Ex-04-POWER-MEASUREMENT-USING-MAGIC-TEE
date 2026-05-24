@@ -1,5 +1,5 @@
-## NAME: T.TANUJ
-## REG NO: 212224060276
+## NAME: SIRANJITH.E
+## REG NO: 212224060252
 # Ex-04-POWER-MEASUREMENT-USING-MAGIC-TEE
 ## AIM:
 To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB powerdivision in the arm of magic tree.
